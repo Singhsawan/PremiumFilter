@@ -30,5 +30,3 @@ ujson
 wget
 pytz
 aiohttp
-coroutine
-asyncio
